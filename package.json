@@ -1,0 +1,20 @@
+{
+    "name": "universal-plugin-system",
+    "version": "0.0.6",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "plugin-system"
+    ],
+    "author": "salmanelparl",
+    "license": "MIT",
+    "description": "Kerangka kerja yang memungkinkan penambahan atau penggantian fitur secara dinamis melalui penggunaan plugin.",
+    "homepage": "https://github.com/salmanelparl/universal-plugin-system#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salmanelparl/universal-plugin-system.git"
+    },
+    "type": "module"
+}
